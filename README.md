@@ -1,4 +1,4 @@
-# JLPT Kanji Level
+# JLPT Kanji Level (In Progress)
 Gives the JLPT Kanji level and Kana reading for each sentence. 
 
 # Example
